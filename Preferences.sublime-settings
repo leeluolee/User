@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
+	"font_face": "Monaco",
+	"font_size": 10.0,
+	"ignored_packages":
+	[
+		"Nodejs"
+	],
+	"rulers":
+	[
+		85
+	],
+	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"vintage_ctrl_keys": true,
+	"vintage_start_in_command_mode": true,
+	"vintage_use_clipboard": true
+}

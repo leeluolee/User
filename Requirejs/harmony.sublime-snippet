@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[!function(global){
+	${0:// body...}
+
+	if (typeof exports === 'object') {
+		module.exports = ${1:exports};
+	} else if (typeof define === 'function' && define.amd) {
+		define(function() {
+			return ${1:exports};
+		});
+	} else {
+		global.${1:exports} = ${1:exports};
+	}
+}(this)]]></content>
+    <tabTrigger>harm</tabTrigger>
+    <scope>source.js</scope>
+    <description>RequireJs harmony snippet</description>
+</snippet>

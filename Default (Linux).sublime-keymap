@@ -1,0 +1,17 @@
+[
+    { "keys": ["ctrl+k","ctrl+t"], "command": "open_terminal" },
+    { "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_menu" },
+    { "keys": ["ctrl+k", "ctrl+n"], "command": "toggle_minimap" },
+    { "keys": ["ctrl+k", "ctrl+j"], "command": "toggle_tabs"},
+    { "keys": ["left"], "command": "move", "args": {"by": "characters", "forward": false} },
+    { "keys": ["right"], "command": "move", "args": {"by": "characters", "forward": true} },
+    { "keys": ["up"], "command": "move", "args": {"by": "lines", "forward": false} },
+    { "keys": ["down"], "command": "move", "args": {"by": "lines", "forward": true} },
+    { "keys": ["ctrl+i"], "command": "exit_insert_mode",
+        "context":
+        [
+            { "key": "setting.command_mode", "operand": false },
+            { "key": "setting.is_widget", "operand": false }
+        ]
+    }
+]

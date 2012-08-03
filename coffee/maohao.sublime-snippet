@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[${1:key}: ${2:"${3:value}"}]]></content>
+    <tabTrigger>:</tabTrigger>
+    <scope>source.coffee</scope>
+    <description>coffee key-value</description>
+</snippet>

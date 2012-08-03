@@ -1,0 +1,34 @@
+{
+	"auto_upgrade_last_run": 1343998510,
+	"installed_packages":
+	[
+		"4GL",
+		"AdvancedNewFile",
+		"Alignment",
+		"CoffeeScript",
+		"CSS Less(ish)",
+		"DocBlockr",
+		"Gist",
+		"JsFormat",
+		"KeymapManager",
+		"LESS",
+		"LESS-build",
+		"Markdown Preview",
+		"Nodejs",
+		"Package Control",
+		"Prefixr",
+		"Stylus",
+		"SublimeBlockCursor",
+		"SublimeEvernote",
+		"Terminal",
+		"Theme - Aqua",
+		"Theme - Nil",
+		"Theme - Soda",
+		"Wiki",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		""
+	]
+}

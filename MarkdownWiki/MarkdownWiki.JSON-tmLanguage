@@ -1,0 +1,17 @@
+{ "name": "MarkdownWiki",
+  "scopeName": "text.html.markdown.markdownwiki",
+  "fileTypes": ["md","mwiki","mdwiki"],
+  "patterns": [
+    {  "name": "markup.bold.link.internal.html.markdown.markdownwiki",
+       "begin": "\\[\\[",
+       "end": "\\]\\]",
+       "comment": "Match WikiWords and make them into links."
+    },
+    { "name":"meta.content.markdownwiki",
+      "patterns": [
+      { "include": "text.html.markdown" }
+      ]
+    }
+  ],
+  "uuid": "fa1aa050-694b-4177-ba61-92c7c12e9aeb"
+}

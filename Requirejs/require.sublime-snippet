@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[require([${1:depends}], function(${2:arguments}) {
+	${0:// body...}
+})]]></content>
+    <tabTrigger>req</tabTrigger>
+    <scope>source.js</scope>
+    <description>RequireJs require snippet</description>
+</snippet>

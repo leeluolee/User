@@ -1,6 +1,6 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Solarized (Light).tmTheme",
-	"font_face": "Monaco",
+	"color_scheme": "Packages/User/Obsidian.tmTheme",
+	"font_face": "monaco",
 	"font_size": 10.0,
 	"ignored_packages":
 	[
@@ -8,7 +8,7 @@
 	],
 	"rulers":
 	[
-		85
+		80
 	],
 	"tab_size": 4,
 	"theme": "Soda Light.sublime-theme",

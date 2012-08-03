@@ -1,5 +1,5 @@
 {
-	"auto_upgrade_last_run": 1343998510,
+	"auto_upgrade_last_run": 1344006452,
 	"installed_packages":
 	[
 		"4GL",
@@ -24,6 +24,7 @@
 		"Theme - Aqua",
 		"Theme - Nil",
 		"Theme - Soda",
+		"Themr",
 		"Wiki",
 		"ZenCoding"
 	],

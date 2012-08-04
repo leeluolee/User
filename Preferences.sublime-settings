@@ -6,12 +6,13 @@
 	[
 		"Nodejs"
 	],
+	"margin": -2,
 	"rulers":
 	[
 		80
 	],
 	"tab_size": 4,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Nil.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"vintage_ctrl_keys": true,
 	"vintage_start_in_command_mode": true,

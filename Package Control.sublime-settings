@@ -1,14 +1,17 @@
 {
-	"auto_upgrade_last_run": 1344049385,
+	"auto_upgrade_last_run": 1344605062,
 	"installed_packages":
 	[
 		"4GL",
 		"AdvancedNewFile",
 		"Alignment",
+		"BracketHighlighter",
 		"CoffeeScript",
 		"CSS Less(ish)",
 		"DocBlockr",
 		"Gist",
+		"Git",
+		"Goto-CSS-Declaration",
 		"JsFormat",
 		"KeymapManager",
 		"LESS",
@@ -20,11 +23,13 @@
 		"Stylus",
 		"SublimeBlockCursor",
 		"SublimeEvernote",
+		"Tag",
 		"Terminal",
 		"Theme - Aqua",
 		"Theme - Nil",
 		"Theme - Soda",
 		"Themr",
+		"VintageEx",
 		"Wiki",
 		"ZenCoding"
 	],

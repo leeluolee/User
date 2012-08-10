@@ -1,12 +1,10 @@
 {
 	"discovered_themes":
 	[
+		"Default.sublime-theme",
 		"Ayin.sublime-theme",
 		"Nil.sublime-theme",
-		"Soda Light.sublime-theme",
 		"Soda Dark.sublime-theme",
-		"Default.sublime-theme",
-		"AppKit.sublime-theme",
-		"ProKit.sublime-theme"
+		"Soda Light.sublime-theme"
 	]
 }
